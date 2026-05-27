@@ -47,4 +47,4 @@ title("FFT Magnitude Spectrum (Built-in)");
 
 
 # RESULT: 
-Both methods give the same output spectrum, hence verified.
+Both methods give the same output spectrum, therefore the results are verified.
